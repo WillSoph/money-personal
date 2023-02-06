@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="173" height="40" viewBox="0 0 173 40">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 125px;
+        font-family: "Franklin Gothic Medium";
+      }
+
+      .cls-1, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #9b5a44;
+      }
+
+      .cls-3 {
+        font-size: 200px;
+        font-family: "Microsoft Himalaya";
+      }
+    </style>
+  </defs>
+  <text id="personal" class="cls-1" transform="translate(54.947 28.263) scale(0.24 0.24)">personal</text>
+  <circle id="Elipse_1" data-name="Elipse 1" class="cls-2" cx="20.047" cy="20" r="19.797"/>
+  <text id="_" data-name="$" class="cls-3" transform="translate(12.717 30.419) scale(0.24 0.24)">$</text>
+</svg>
